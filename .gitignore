@@ -85,3 +85,7 @@ tools/.env
 
 # Output of examples/bh_quickstart.py
 examples/output/
+site/assets/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
